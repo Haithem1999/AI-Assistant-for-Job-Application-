@@ -1,6 +1,5 @@
 import os 
 import logging
-from dotenv import load_dotenv
 import anthropic
 import openai 
 
